@@ -1,0 +1,61 @@
+[{
+    "value": 1200,
+    "label": "Jan"
+  },
+  {
+    "value": 433,
+    "label": "Fev"
+  },
+  {
+    "value": 1266,
+    "label": "Mar"
+  },
+  {
+    "value": 0,
+    "label": "Avr"
+  },
+  {
+    "value": 123,
+    "label": "Mai"
+  },
+  {
+    "value": 8798,
+    "label": "Juin"
+  },
+  {
+    "value": 1238,
+    "label": "Jui"
+  },
+  {
+    "value": 0,
+    "label": "Aout"
+  },
+  {
+    "value": 0,
+    "label": "Sept"
+  },
+  {
+    "value": 0,
+    "label": "Oct"
+  },
+  {
+    "value": 0,
+    "label": "Nov"
+  },
+  {
+    "value": 0,
+    "label": "Dec"
+  },
+  {
+    "value": 123,
+    "label": "Dec"
+  },
+  {
+    "value": 456,
+    "label": "Dec"
+  },
+  {
+    "value": 789,
+    "label": "Dec"
+  }
+]

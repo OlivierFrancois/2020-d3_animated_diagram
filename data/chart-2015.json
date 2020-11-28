@@ -1,0 +1,57 @@
+[ {
+    "value": 138,
+    "label": "Gen"
+  },
+  {
+    "value": 1602,
+    "label": "Feb"
+  },
+  {
+    "value": 1683,
+    "label": "Mar"
+  },
+  {
+    "value": 792,
+    "label": "Apr"
+  },
+  {
+    "value": 1524,
+    "label": "Mag"
+  },
+  {
+    "value": 100,
+    "label": "Giu"
+  },
+  {
+    "value": 100,
+    "label": "Lug"
+  },
+  {
+    "value": 762,
+    "label": "Ago"
+  },
+  {
+    "value": 100,
+    "label": "Set"
+  },
+  {
+    "value": 2475,
+    "label": "Ott"
+  },
+  {
+    "value": 100,
+    "label": "Nov"
+  },
+  {
+    "value": 100,
+    "label": "Dic"
+  },
+  {
+    "value": 854,
+    "label": "Moon"
+  },
+  {
+    "value": 456,
+    "label": "Mars"
+  }
+]
